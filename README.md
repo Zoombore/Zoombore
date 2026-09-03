@@ -4,43 +4,24 @@ SelfLab · Noreen-Agents · Noorak · Agent-Collision
 
 ---
 
-## What I'm building
+**SelfLab** — 4-phase self-knowledge protocol. Nightly TSV (2 min), Perl trends, evidence tags [علمی] [تفسیر] [فرضیه] [نیازمند داده]. Local-first. → [github.com/Zoombore/selflab](https://github.com/Zoombore/selflab)
 
-**SelfLab** — Self-knowledge research protocol. 4 phases (baseline → intake → sessions → tracking), nightly TSV log (2 min), Perl trend engine, evidence labels [علمی] [تفسیر] [فرضیه] [نیازمند داده]. Local-first, private data. → [selflab](https://github.com/Zoombore/selflab)
+**Noreen-Agents** — MCP orchestrator. 11 tools, routes across DeepSeek/Hermes. 46 models (FreeTheAI), ArvanCloud active. → [github.com/Zoombore/Noreen-Agents](https://github.com/Zoombore/Noreen-Agents)
 
-**Noreen-Agents** — MCP orchestration server. 11 tools, routes tasks across DeepSeek, Hermes, future agents. 46 models via FreeTheAI, ArvanCloud provider active. → [Noreen-Agents](https://github.com/Zoombore/Noreen-Agents)
+**Noorak** — Tire shop (Laravel 11) + AI assistant. Father's business. → [github.com/Zoombore/Noorak](https://github.com/Zoombore/Noorak)
 
-**Noorak** — Tire shop management (Laravel 11) + AI assistant for inventory/sales. Father's business. → [Noorak](https://github.com/Zoombore/Noorak)
-
-**Agent-Collision** — Private workspace for DeepSeek + Hermes coordination. Standing rules, STATUS.md as shared memory. → [Agent-Collision](https://github.com/Zoombore/Agent-Collision)
+**Agent-Collision** — DeepSeek + Hermes workspace. Standing rules, STATUS.md memory. → [github.com/Zoombore/Agent-Collision](https://github.com/Zoombore/Agent-Collision)
 
 ---
 
-## How I work
+How I work: phased (baseline→intake→sessions→tracking) · evidence-labeled · technically honest (thinking ❌, dates fabricated → inject today, tool-calling ✅) · layered arch · privacy first (`chmod 600`)
 
-- **Phased** — Baseline → intake → sessions → tracking. Nothing ad-hoc.
-- **Evidence-labeled** — Every claim tagged: [علمی] [تفسیر] [فرضیه] [نیازمند داده]. Discrepancies reported, not hidden.
-- **Technically honest** — Provider returns no thinking channel. Model fabricates dates → inject today in prompt. Tool-calling works.
-- **Layered architecture** — Data → Engine → Interface → Agents
-- **Privacy first** — `chmod 600` on keys, nothing in chat, local workspace
+Stack: Python 3.12, PHP 8.3/Laravel, Bash, SQL · ArvanCloud (DeepSeek-V4-Flash, Gemma-4-31B-IT), FreeTheAI (46), MCP · Linux, proot, GH Actions, Railway · Noreen orchestrator, DeepSeek, Hermes
 
 ---
 
-## Stack (what runs)
-
-**Core:** Python 3.12, PHP 8.3 (Laravel), Bash, SQL  
-**AI/ML:** ArvanCloud (DeepSeek-V4-Flash, Gemma-4-31B-IT), FreeTheAI (46 models), MCP  
-**Infra:** Linux, proot (Android), GitHub Actions, Railway/Render  
-**Agents:** Noreen orchestrator, DeepSeek (research/QA), Hermes (backend/deploy)
+**Zoombore** — SelfLab (خودشناسی با شواهد)، Noreen-Agents (هماهنگی چند عامله)، Noorak (تایر + AI). روش: فازها، برچسب‌ها [علمی] [تفسیر] [فرضیه] [نیازمند داده]، صادقت فنی، معماری لایه‌ای، حریم خصوصی.
 
 ---
 
-## در فارسی
-
-**Zoombore** — SelfLab (پژوهش خودشناسی با شواهد)، Noreen-Agents (هماهنگی چند عامله)، Noorak (فروشگاه تایر + AI).
-
-روش: فازها (baseline → intake → جلسات → ردیابی)، برچسب شواهد [علمی] [تفسیر] [فرضیه] [نیازمند داده]، صادقت فنی (thinking ❌، tool-calling ✅)، معماری لایه‌ای، حریم خصوصی اولویت.
-
----
-
-*Updated: 2026-09-03*
+*2026-09-03*
