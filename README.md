@@ -1,6 +1,6 @@
 # Zoombore
 
-SelfLab • Noreen-Agents • Noorak • Agent-Collision
+SelfLab · Noreen-Agents · Noorak · Agent-Collision
 
 ---
 
@@ -28,26 +28,10 @@ SelfLab • Noreen-Agents • Noorak • Agent-Collision
 
 ## Stack (what runs)
 
-| Layer | Tools |
-|-------|-------|
-| **Core** | Python 3.12, PHP 8.3 (Laravel), Bash, SQL |
-| **AI/ML** | ArvanCloud (DeepSeek-V4-Flash, Gemma-4-31B-IT), FreeTheAI (46 models), MCP |
-| **Infra** | Linux, proot (Android), GitHub Actions, Railway/Render |
-| **Agents** | Noreen orchestrator, DeepSeek (research/QA), Hermes (backend/deploy) |
-
----
-
-## Outside code
-
-Elden Ring (build optimization), Arma 3 (milsim), Fortnite.  
-Reading: psychology, systems architecture, practical philosophy.
-
----
-
-## Contact
-
-- **GitHub** — [Zoombore](https://github.com/Zoombore) (issues open for collab)
-- **Email** — On GitHub profile (technical/business)
+**Core:** Python 3.12, PHP 8.3 (Laravel), Bash, SQL  
+**AI/ML:** ArvanCloud (DeepSeek-V4-Flash, Gemma-4-31B-IT), FreeTheAI (46 models), MCP  
+**Infra:** Linux, proot (Android), GitHub Actions, Railway/Render  
+**Agents:** Noreen orchestrator, DeepSeek (research/QA), Hermes (backend/deploy)
 
 ---
 
