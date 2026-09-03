@@ -30,7 +30,7 @@
 ---
 
 ### 📊 Live GitHub Metrics
-*(این بخش هر ۲۴ ساعت به صورت خودکار آپدیت می‌شود)*
+*(آپدیت هر ۲۴ ساعت — اگر نمایش داده نشد، سرویس github-readme-stats موقتاً down است)*
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zoombore&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zoombore&layout=compact&langs_count=8&theme=radical"/>
