@@ -11,7 +11,6 @@
 
 ### 🚀 Live Status & What I'm Building Right Now
 - 🧠 **Currently orchestrating:** `Noreen-Agents` & `SelfLab` protocols.
-- 📱 **Contributing to:** `Operit` (The most powerful AI Agent on Android).
 - ⚡ **Exploring:** Agent-Collision dynamics & MCP Orchestrators.
 - 🌱 **Philosophy:** `Evidence-based` | `Local-first` | `Privacy-first`
 
@@ -20,9 +19,7 @@
 ### 🛠️ Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.12-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-Android-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-PHP-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-LocalFirst-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/LLMs-MCP-FF6F00?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-Bash-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
