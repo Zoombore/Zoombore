@@ -17,7 +17,7 @@
 
 ---
 
-### 🛠️ Tech Stack (Dynamic Badges)
+### 🛠️ Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.12-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Kotlin-Android-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
@@ -29,11 +29,23 @@
 
 ---
 
-### 📊 Live GitHub Metrics
-*(آپدیت هر ۲۴ ساعت — اگر نمایش داده نشد، سرویس github-readme-stats موقتاً down است)*
+### 📊 GitHub Metrics (Real-time via shields.io)
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zoombore&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zoombore&layout=compact&langs_count=8&theme=radical"/>
+  <img src="https://img.shields.io/github/followers/Zoombore?label=Followers&style=for-the-badge&color=00FF00&logo=github" />
+  <img src="https://img.shields.io/github/public-repos/Zoombore?label=Repos&style=for-the-badge&color=181717&logo=github" />
+  <img src="https://img.shields.io/github/stars/Zoombore/Zoombore?label=Profile%20Stars&style=for-the-badge&color=FFD700&logo=github" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/commit-activity/m/Zoombore/Zoombore?label=Commits%20(30d)&style=for-the-badge&color=00ADD8&logo=github" />
+  <img src="https://img.shields.io/github/last-commit/Zoombore/Zoombore?label=Last%20Commit&style=for-the-badge&color=FF6B6B&logo=github" />
+  <img src="https://img.shields.io/github/repo-size/Zoombore/Zoombore?label=Repo%20Size&style=for-the-badge&color=8B5CF6&logo=github" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/issues/Zoombore/Noreen-Agents?label=Noreen%20Issues&style=for-the-badge&color=00FF00&logo=github" />
+  <img src="https://img.shields.io/github/issues/Zoombore/Agent-Collision?label=Agent%20Collision%20Issues&style=for-the-badge&color=FF6F00&logo=github" />
+  <img src="https://img.shields.io/github/issues/Zoombore/Noorak?label=Noorak%20Issues&style=for-the-badge&color=FF2D20&logo=laravel" />
 </p>
 
 ---
