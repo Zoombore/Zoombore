@@ -1,269 +1,84 @@
-<!-- Header -->
-<a href="https://github.com/Zoombore">
-  <h1 align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/header-dark.svg">
-      <img alt="Saber's Header" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/header-light.svg">
-    </picture>
-  </h1>
-</a>
+# Saber — Systems architect, Sari, Iran
 
-<!-- Typing SVG -->
-<p align="center">
-  <a href="https://github.com/Platane/svg-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3FB950&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%A4%96+Building+Systems%3B+%F0%9F%A7%A0+Optimizing+Logic%3B+%F0%9F%8C%8D+Connecting+Agents" alt="Typing SVG" />
-  </a>
-</p>
-
-<!-- Intro Section -->
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h2>👋 About Me</h2>
-      <p>
-        <strong>Saber</strong> — 28-year-old system architect from <strong>Sari, Iran</strong> 🇮🇷
-      </p>
-      <p>
-        I think in <em>layers</em> and build in <em>systems</em>. My brain runs on architecture patterns, optimization loops, and the occasional Elden Ring boss fight ⚔️
-      </p>
-      <p>
-        Currently building:<br>
-        🔧 <strong>SelfLab</strong> — AI-powered self-knowledge research lab<br>
-        🤖 <strong>Noreen-Agents</strong> — Multi-agent orchestration system<br>
-        🏪 <strong>Noorak</strong> — Tire shop management + AI assistant
-      </p>
-      <p>
-        <em>\"The best system is the one you understand deeply.\"</em>
-      </p>
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Zoombore&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" width="100%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zoombore&theme=radical&hide_border=true" width="100%">
-    </td>
-  </tr>
-</table>
+28. Building SelfLab (self-knowledge research), Noreen-Agents (multi-agent orchestration), Noorak (tire shop + AI for father's business).
 
 ---
 
-<!-- Tech Stack -->
-<h2>🛠️ Tech Stack</h2>
+## What I'm working on
 
-<p align="center">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
-</p>
+**SelfLab** — Protocolo de pesquisa psicológica com evidência. 4 fases, log diário TSV (2 min/noite), motor Perl para tendências, labels de evidência [Científico] [Interpretação] [Hipótese] [Precisa Dados]. Roda local, dados privados. [Repo](https://github.com/Zoombore/selflab)
 
-<p align="center">
-  <!-- Frameworks -->
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino">
-</p>
+**Noreen-Agents** — Servidor MCP de orquestração. 11 ferramentas, roteia tarefas entre DeepSeek, Hermes, futuros agentes. 46 modelos no FreeTheAI. Provider ArvanCloud ativo. [Repo](https://github.com/Zoombore/Noreen-Agents)
 
-<p align="center">
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/Proot-000000?style=for-the-badge&logo=android&logoColor=white" alt="Proot">
-  <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=openai&logoColor=white" alt="MCP">
-</p>
+**Noorak** — Sistema de gestão da loja de pneus do pai (Laravel 11) + assistente IA. Estoque, vendas, relatórios. [Repo](https://github.com/Zoombore/Noorak)
 
-<p align="center">
-  <!-- AI/ML -->
-  <img src="https://img.shields.io/badge/AI/ML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="AI/ML">
-  <img src="https://img.shields.io/badge/DeepSeek-000000?style=for-the-badge&logo=openai&logoColor=white" alt="DeepSeek">
-  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini">
-</p>
+**Agent-Collision** — Workspace privado DeepSeek + Hermes. Regras de pé, STATUS.md como memória compartilhada. [Repo](https://github.com/Zoombore/Agent-Collision)
 
 ---
 
-<!-- Featured Projects -->
-<h2>🚀 Featured Projects</h2>
+## Stack (what actually runs)
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3 align="center">🧠 SelfLab</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Protocol-Active-brightgreen?style=flat-square" alt="Protocol Active">
-        <img src="https://img.shields.io/badge/Python-3.12-blue?style=flat-square" alt="Python">
-      </p>
-      <p align="center">
-        AI-powered self-knowledge research lab with daily TSV logging, trend analysis, and multi-model probing.
-      </p>
-      <p align="center">
-        <a href="https://github.com/Zoombore/selflab">
-          <img src="https://img.shields.io/badge/View-Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repo">
-        </a>
-      </p>
-    </td>
-    <td width="33%" valign="top">
-      <h3 align="center">🤖 Noreen-Agents</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Tools-11-brightgreen?style=flat-square" alt="11 Tools">
-        <img src="https://img.shields.io/badge/Models-46-blue?style=flat-square" alt="46 Models">
-      </p>
-      <p align="center">
-        Multi-agent orchestration system with smart task routing across 46 FreeTheAI models.
-      </p>
-      <p align="center">
-        <a href="https://github.com/Zoombore/Noreen-Agents">
-          <img src="https://img.shields.io/badge/View-Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repo">
-        </a>
-      </p>
-    </td>
-    <td width="33%" valign="top">
-      <h3 align="center">🏪 Noorak</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Laravel-11-red?style=flat-square" alt="Laravel">
-        <img src="https://img.shields.io/badge/AI-Assistant-Active-brightgreen?style=flat-square" alt="AI Assistant">
-      </p>
-      <p align="center">
-        Tire shop management system with AI-powered assistant for inventory and sales.
-      </p>
-      <p align="center">
-        <a href="https://github.com/Zoombore/Noorak">
-          <img src="https://img.shields.io/badge/View-Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repo">
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
+| Category | Tools |
+|----------|-------|
+| **Core** | Python 3.12, PHP 8.3 (Laravel), Bash, SQL |
+| **AI/ML** | ArvanCloud (DeepSeek-V4-Flash, Gemma-4-31B-IT), FreeTheAI (46 modelos), MCP protocol |
+| **Infra** | Linux, proot (Android), GitHub Actions, Railway/Render deploy |
+| **Agents** | Noreen orchestrator, DeepSeek (pesquisa/QA), Hermes (backend/deploy) |
 
 ---
 
-<!-- GitHub Stats -->
-<h2>📊 GitHub Analytics</h2>
+## How I work
 
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zoombore&layout=compact&theme=radical&hide_border=true" width="100%">
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zoombore&repo=selflab&theme=radical&hide_border=true" width="100%">
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zoombore&repo=Noreen-Agents&theme=radical&hide_border=true" width="100%">
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zoombore&repo=Agent-Collision&theme=radical&hide_border=true" width="100%">
-    </td>
-  </tr>
-</table>
+- **Fases** — Everything phased: baseline → intake → sessões → tracking
+- **Evidência** — Toda claim tem label: [Científico] [Interpretação] [Hipótese] [Precisa Dados]
+- **Honestidade técnica** — Thinking channel ❌ no provider. Modelo inventa datas → injeto hoje no prompt. Tool-calling ✅.
+- **Arquitetura em camadas** — Dados → Motor → Interface → Agentes
+- **Privacidade first** — chmod 600 nas keys, nada no chat, workspace local
 
 ---
 
-<!-- Gaming Section -->
-<h2>🎮 Gaming Corner</h2>
+## GitHub (real metrics)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Elden_Ring-AC8C17?style=for-the-badge&logo=playstation&logoColor=white" alt="Elden Ring">
-  <img src="https://img.shields.io/badge/Arma-3-4A6741?style=for-the-badge&logo=steam&logoColor=white" alt="Arma">
-  <img src="https://img.shields.io/badge/Fortnite-000000?style=for-the-badge&logo=epic-games&logoColor=white" alt="Fortnite">
-</p>
-
-<p align="center">
-  <em>When I'm not optimizing systems, I'm optimizing my build in Elden Ring ⚔️</em>
-</p>
+![Stats](https://github-readme-stats.vercel.app/api?username=Zoombore&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zoombore&layout=compact&theme=dark&hide_border=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zoombore&theme=dark&hide_border=true)
 
 ---
 
-<!-- Philosophy -->
-<h2>💡 Philosophy</h2>
+## Fora do código
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🧠 How I Think</h3>
-      <ul>
-        <li><strong>Architectural</strong> — I see systems, not just code</li>
-        <li><strong>Layered</strong> — Every problem has depth</li>
-        <li><strong>Optimization</strong> — Always looking for the better way</li>
-        <li><strong>Systemic</strong> — Everything connects to everything</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎯 What I Believe</h3>
-      <ul>
-        <li><em>\"The best system is the one you understand deeply.\"</em></li>
-        <li><em>\"Complexity is simple when you see the patterns.\"</em></li>
-        <li><em>\"Build systems, not just features.\"</em></li>
-        <li><em>\"Optimization is a journey, not a destination.\"</em></li>
-      </ul>
-    </td>
-  </tr>
-</table>
+**Jogos** — Elden Ring (build optimization), Arma 3 (milsim), Fortnite.  
+**Leitura** — Psicologia, arquitetura de sistemas, filosofia prática.  
+**Local** — Sari, Mazandaran.
 
 ---
 
-<!-- Activity Graph -->
-<h2>📈 Activity Graph</h2>
+## Contato
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zoombore&theme=redical&hide_border=true&width=100%" alt="Activity Graph">
-</p>
-
----
-
-<!-- Persian Section -->
-<h2>🇮🇷 بخش فارسی</h2>
-
-<div dir="rtl">
-
-### 👋 درباره من
-
-**صابر** — معمار سیستم‌های ۲۸ ساله از **ساری، ایران** 🇮🇷
-
-من در **لایه‌ها** فکر می‌کنم و در **سیستم‌ها** می‌سازم. مغز من الگوهای معماری، حلقه‌های بهینه‌سازی و گاهی اوقات باس‌فایت‌های Elden Ring را پردازش می‌کند ⚔️
-
-### 🔧 پروژه‌های فعلی
-
-- **خودآزماییگاه** — آزمایشگاه تحقیقات خودشناسی با هوش مصنوعی
-- **نورین ایجنت‌ها** — سیستم هماهنگی چند عامل هوش مصنوعی
-- **نورک** — سیستم مدیریت فروشگاه تایر با دستیار هوش مصنوعی
-
-### 💭 فلسفه من
-
-> «بهترین سیستم، سیستمی است که عمیقاً درکش کنی.»
-
-</div>
+- **GitHub** — [Zoombore](https://github.com/Zoombore) (issues abertos para colaboração)
+- **Email** — saber@unilab.dev (técnico/negócios)
+- **LinkedIn** — [perfil](https://linkedin.com/in/) (se necessário)
 
 ---
 
-<!-- Connect -->
-<h2>🤝 Let's Connect</h2>
+## در فارسی
 
-<p align="center">
-  <a href="https://github.com/Zoombore">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://linkedin.com/in/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
+**صابر** — معمار سیستم، ۲۸ ساله، ساری، مازندران.
+
+سازماندهی: SelfLab (پژوهش خودشناسی با شواهد)، Noreen-Agents (هماهنگی چند عامله)، Noorak (سیستم فروشگاه تायर پدر + AI).
+
+روش کار: فازها (baseline → intake → جلسات → ردیابی)، برچسب شواهد [علمی] [تفسیر] [فرضیه] [نیازمند داده], صادقت فنی (thinking channel ❌, tool-calling ✅), معماری لایه‌ای, حریم خصوصی اولویت.
+
+خارج کد: Elden Ring، Arma 3، Fortnite. خواندن: روانشناسی، معماری سیستم، فلسفه عملی.
 
 ---
 
-<!-- Footer -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Zoombore&color=3FB950&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views">
-</p>
+## Notes
 
-<p align="center">
-  <em>Built with 🧠 and ☕ by <strong>Saber</strong></em>
-</p>
+- Main repos: SelfLab, Noreen-Agents, Noorak, Agent-Collision
+- Private by default. Public only when it makes sense.
+- Profile views: ![](https://komarev.com/ghpvc/?username=Zoombore&color=3FB950&style=flat&label=Views)
 
-<p align="center">
-  <sub>© 2026 Zoombore. All rights reserved.</sub>
-</p>
+---
+
+*Last updated: 2026-09-03*
