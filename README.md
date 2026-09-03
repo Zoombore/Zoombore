@@ -33,7 +33,7 @@
         🏪 <strong>Noorak</strong> — Tire shop management + AI assistant
       </p>
       <p>
-        <em>"The best system is the one you understand deeply."</em>
+        <em>\"The best system is the one you understand deeply.\"</em>
       </p>
     </td>
     <td width="50%" align="center">
@@ -193,10 +193,10 @@
     <td width="50%" valign="top">
       <h3>🎯 What I Believe</h3>
       <ul>
-        <li><em>"The best system is the one you understand deeply."</em></li>
-        <li><em>"Complexity is simple when you see the patterns."</em></li>
-        <li><em>"Build systems, not just features."</em></li>
-        <li><em>"Optimization is a journey, not a destination."</em></li>
+        <li><em>\"The best system is the one you understand deeply.\"</em></li>
+        <li><em>\"Complexity is simple when you see the patterns.\"</em></li>
+        <li><em>\"Build systems, not just features.\"</em></li>
+        <li><em>\"Optimization is a journey, not a destination.\"</em></li>
       </ul>
     </td>
   </tr>
@@ -210,6 +210,31 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zoombore&theme=redical&hide_border=true&width=100%" alt="Activity Graph">
 </p>
+
+---
+
+<!-- Persian Section -->
+<h2>🇮🇷 بخش فارسی</h2>
+
+<div dir="rtl">
+
+### 👋 درباره من
+
+**صابر** — معمار سیستم‌های ۲۸ ساله از **ساری، ایران** 🇮🇷
+
+من در **لایه‌ها** فکر می‌کنم و در **سیستم‌ها** می‌سازم. مغز من الگوهای معماری، حلقه‌های بهینه‌سازی و گاهی اوقات باس‌فایت‌های Elden Ring را پردازش می‌کند ⚔️
+
+### 🔧 پروژه‌های فعلی
+
+- **خودآزماییگاه** — آزمایشگاه تحقیقات خودشناسی با هوش مصنوعی
+- **نورین ایجنت‌ها** — سیستم هماهنگی چند عامل هوش مصنوعی
+- **نورک** — سیستم مدیریت فروشگاه تایر با دستیار هوش مصنوعی
+
+### 💭 فلسفه من
+
+> «بهترین سیستم، سیستمی است که عمیقاً درکش کنی.»
+
+</div>
 
 ---
 
